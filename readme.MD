@@ -23,13 +23,13 @@ If you appreciate this game and content 📖, support projects visibility, give 
 #### How to deploy on elastic beanstalk
 
 ```
-<won't reveal 😀>
+<won't reveal😀>
 ```
 
 #### How to deploy on docker
 
 ```
-<won't reveal 😀>
+<won't reveal😀>
 ```
 
 ## Customization
