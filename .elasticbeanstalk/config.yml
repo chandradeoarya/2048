@@ -1,6 +1,6 @@
 branch-defaults:
   ga-cicd-eb:
-    environment: null
+    environment: 2048-dev
     group_suffix: null
 global:
   application_name: '2048'
